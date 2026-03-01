@@ -7,7 +7,6 @@ A powerful visual tool to transform CSV data into structured JSON with drag-and-
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)
 
 <!-- TODO: Add main screenshot here -->
-![CSV JSON Mapper Interface](screenshots/main-interface.png)
 ![Join Configuration](screenshots/join-interface.png)
 ![Field Mapping](screenshots/field-mapping.png)
 ![Query Lab](screenshots/query-lab.png)
